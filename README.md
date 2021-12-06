@@ -1,2 +1,4 @@
-# proyectoIntegracionContinua
-Este repositorio contiene el trabajo que se desarrolla como proyecto para el módulo de integración continua
+# Integración Continua
+Integración continua
+
+v.0.1
